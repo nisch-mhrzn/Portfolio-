@@ -11,14 +11,14 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I am Nischal </h1>
         <p className={styles.description}>
           I am a Software Developer with 2+ years of experience using Python and
-          ReactJS.Reach out if you would like to learn more!
+          ReactJS. Reach out if you would like to learn more!
         </p>
-        <a href=",mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:nischal.maharjan1233@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/me.png")}
         alt="Hero Image of Me"
         className={styles.heroImg}
       ></img>

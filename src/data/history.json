@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Product Development Intern",
+    "organisation": "Robo Tech Nepal",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Air Filter design", "Designed PCBs"],
+    "imageSrc": "history/robo.png"
+  },
+  {
+    "role": "Project Manager",
+    "organisation": "HCOE",
+    "startDate": "June, 2023",
+    "endDate": "July, 2023",
+    "experiences": [
+      "Led in successful execution of complex projects",
+      "Timely delivery of projects with scope and budget constraints"
+    ],
+    "imageSrc": "history/HCOE.png"
+  },
+  {
+    "role": "Instructor",
+    "organisation": "HCOE",
+    "startDate": "May, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      " Instructed students of 1st year at Arduino and sensor interfacing trainings",
+      "Developed public speaking and problem solving skills."
+    ],
+    "imageSrc": "history/HCOE.png"
+  }
+]

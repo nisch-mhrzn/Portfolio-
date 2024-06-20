@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Apple Leaf Disease Detection",
+    "imageSrc": "projects/Homepage.png",
+    "description": "This is my minor project. I built an web app that can predict the diseases of an apple leaf.",
+    "skills": ["Python", "Machine Learning", "Streamlit", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nisch-mhrzn/Apple-leaf-disease-detection"
+  },
+  {
+    "title": "ToDo List",
+    "imageSrc": "projects/TODO.png",
+    "description": "This app allows users to add, complete, and delete tasks, with tasks being stored in the browser's local storage.",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nisch-mhrzn/TO-DO-LIST"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weath.png",
+    "description": "The Weather App,uses the OpenWeatherMap API to provide real-time weather information for any specified city and country code.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nisch-mhrzn/Weather-app"
+  },
+  {
+    "title": "Spotify",
+    "imageSrc": "projects/spotify.png",
+    "description": "This is a simple music player, mimicking some Spotify-like behavior",
+    "skills": ["Html", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nisch-mhrzn/Spofiy-"
+  }
+]
