@@ -1,8 +1,47 @@
-# React + Vite
+# Portfolio Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a personal portfolio project built with **React** and **Vite**. It showcases my skills, projects, and experiences in a clean and responsive layout. The project leverages modern web development practices, including component-based architecture and hot module replacement, to provide an optimal user experience.
 
-Currently, two official plugins are available:
+## Features
+- **React & Vite**: Built using the latest technologies for fast and efficient development.
+- **Hot Module Replacement (HMR)**: Enjoy real-time updates in your browser as you code.
+- **ESLint Configuration**: Predefined rules to maintain code quality and consistency.
+- **Responsive Design**: Looks great on desktops, tablets, and mobile devices.
+- **Component-Based Architecture**: Reusable components for better organization.
+- **Deployment Ready**: Easily deployable on platforms like GitHub Pages or Vercel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- npm or yarn
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nisch-mhrzn/Portfolio-
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Portfolio-
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+   or
+   ```bash
+   yarn install
+   ```
+
+### Running the Project
+To start the development server, run:
+```bash
+npm run dev
+```
+or
+```bash
+yarn dev
+```
+Open your browser and navigate to `http://localhost:5173` to see your portfolio in action.
