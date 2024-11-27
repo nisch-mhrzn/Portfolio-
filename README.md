@@ -20,7 +20,7 @@ This is a personal portfolio project built with **React** and **Vite**. It showc
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nisch-mhrzn/Portfolio-
+   git clone https://github.com/nisch-mhrzn/My-Personal-Portfolio
    ```
 2. Navigate to the project directory:
    ```bash
